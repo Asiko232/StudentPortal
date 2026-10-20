@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Студенты</string>
+    <string name="main_title">Портал группы</string>
+    <string name="main_subtitle">Студенты и оценки</string>
+    <string name="hint_name">Введите ваше имя</string>
+    <string name="btn_open">Открыть список</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="btn_back">Назад</string>
+    <string name="error_empty_name">Введите имя</string>
+    <string name="list_greeting">Здравствуйте, %1$s! Выберите студента:</string>
+    <string name="photo_description">Фото студента</string>
+    <string name="student_subject">Предмет: %1$s</string>
+    <string name="student_grade">Оценка: %1$d</string>
+    <string name="search_hint">Поиск по имени</string>
+    <string name="sort_by_grade">По баллу</string>
+    <string name="sort_by_name">По алфавиту</string>
+    <string name="stats_format">Студентов: %1$d · Средний балл: %2$s</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="average_format">Средний балл: %1$s</string>
+    <string name="grades_title">Оценки по предметам</string>
+    <string name="grade_excellent">Отлично</string>
+    <string name="grade_good">Хорошо</string>
+    <string name="grade_satisfactory">Удовлетворительно</string>
+    <string name="grade_low">Нужно подтянуть</string>
+    <string name="logo_emoji">🎓</string>
+
+    <string-array name="subjects">
+        <item>Мобильная разработка</item>
+        <item>Базы данных</item>
+        <item>Алгоритмы</item>
+        <item>Веб-технологии</item>
+    </string-array>
+</resources>

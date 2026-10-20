@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#1565C0</color>
+    <color name="text_secondary">#616161</color>
+    <color name="grade_excellent">#2E7D32</color>
+    <color name="grade_good">#00897B</color>
+    <color name="grade_satisfactory">#EF6C00</color>
+    <color name="grade_low">#C62828</color>
+</resources>

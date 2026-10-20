@@ -1,0 +1,206 @@
+2026-10-20 19:39:19.790  8015-8015  libprocessgroup         com.example.studentportal            I  Created cgroup /sys/fs/cgroup/apps/uid_10237
+2026-10-20 19:39:19.805  8015-8015  libprocessgroup         com.example.studentportal            I  Created cgroup /sys/fs/cgroup/apps/uid_10237/pid_8015
+2026-10-20 19:39:20.093  8015-8015  Zygote                  com.example.studentportal            I  Process 8015 created for com.example.studentportal
+2026-10-20 19:39:20.094  8015-8015  e.studentportal         com.example.studentportal            I  Late-enabling -Xcheck:jni
+2026-10-20 19:39:20.314  8015-8015  e.studentportal         com.example.studentportal            I  Using generational CollectorTypeCMC GC.
+2026-10-20 19:39:20.320  8015-8015  e.studentportal         com.example.studentportal            W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, pantherlake, default
+2026-10-20 19:39:20.361  8015-8015  nativeloader            com.example.studentportal            D  Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+2026-10-20 19:39:20.577  8015-8015  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 333566037; UID 10237; state: ENABLED
+2026-10-20 19:39:20.936  8015-8015  nativeloader            com.example.studentportal            D  Configuring clns-9 for other apk /data/app/~~nc-dGXOVgiCD8fWrXYUiWQ==/com.example.studentportal-IfXWEeD0bW-bu4noTPSczA==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~nc-dGXOVgiCD8fWrXYUiWQ==/com.example.studentportal-IfXWEeD0bW-bu4noTPSczA==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.studentportal
+2026-10-20 19:39:21.000  8015-8015  GraphicsEnvironment     com.example.studentportal            V  Currently set values for:
+2026-10-20 19:39:21.001  8015-8015  GraphicsEnvironment     com.example.studentportal            V    angle_gl_driver_selection_pkgs=[]
+2026-10-20 19:39:21.001  8015-8015  GraphicsEnvironment     com.example.studentportal            V    angle_gl_driver_selection_values=[]
+2026-10-20 19:39:21.001  8015-8015  GraphicsEnvironment     com.example.studentportal            V  com.example.studentportal is not listed in per-application setting
+2026-10-20 19:39:21.013  8015-8015  GraphicsEnvironment     com.example.studentportal            V  No special selections for ANGLE, returning default driver choice
+2026-10-20 19:39:21.032  8015-8015  GraphicsEnvironment     com.example.studentportal            V  Neither updatable production driver nor prerelease driver is supported.
+2026-10-20 19:39:21.053  8015-8015  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 407952621; UID 10237; state: ENABLED
+2026-10-20 19:39:21.053  8015-8015  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 419020719; UID 10237; state: ENABLED
+2026-10-20 19:39:21.284  8015-8015  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 458413887; UID 10237; state: ENABLED
+2026-10-20 19:39:21.295  8015-8068  DisplayManager          com.example.studentportal            I  Choreographer implicitly registered for the refresh rate.
+2026-10-20 19:39:21.445  8015-8015  DesktopExperienceFlags  com.example.studentportal            D  Toggle override initialized to: false
+2026-10-20 19:39:21.490  8015-8015  AppCompatDelegate       com.example.studentportal            D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026-10-20 19:39:21.553  8015-8068  GFXSTREAM               com.example.studentportal            I  [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+2026-10-20 19:39:21.555  8015-8068  GFXSTREAM               com.example.studentportal            I  [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+2026-10-20 19:39:21.557  8015-8068  libc                    com.example.studentportal            W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:39:21.617  8015-8068  HWUI                    com.example.studentportal            W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2026-10-20 19:39:21.617  8015-8068  HWUI                    com.example.studentportal            W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2026-10-20 19:39:21.954  8015-8015  e.studentportal         com.example.studentportal            I  hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=37) using reflection: allowed
+2026-10-20 19:39:22.136  8015-8015  MainActivity            com.example.studentportal            D  onCreate: экран создан
+2026-10-20 19:39:22.150  8015-8015  MainActivity            com.example.studentportal            D  onStart
+2026-10-20 19:39:22.152  8015-8015  MainActivity            com.example.studentportal            D  onResume
+2026-10-20 19:39:22.162  8015-8015  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 418924588; UID 10237; state: ENABLED
+2026-10-20 19:39:22.170  8015-8015  HWUI                    com.example.studentportal            W  Unknown dataspace 0
+2026-10-20 19:39:22.229  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@1eb5e6
+2026-10-20 19:39:22.241  8015-8015  VRI[MainActivity]       com.example.studentportal            D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:39:22.257  8015-8087  libc                    com.example.studentportal            W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:39:22.260  8015-8015  HWUI                    com.example.studentportal            I  Using FreeType backend (prop=Auto)
+2026-10-20 19:39:22.283  2124-2459  Finsky                  com.android.vending                  E  [55] ItemStore: getItems RPC failed for item com.example.studentportal
+2026-10-20 19:39:22.283  2124-2414  Finsky                  com.android.vending                  E  [54] ItemStore: getItems RPC failed for item com.example.studentportal
+2026-10-20 19:39:22.315  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-0 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:22.316  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:22.683  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:39:22.685  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:ee81af8a: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:39:24.174  8015-8036  e.studentportal         com.example.studentportal            I  Compiler allocated 5239KB to compile void android.view.ViewRootImpl.performTraversals(long)
+2026-10-20 19:39:24.952  8015-8015  AutofillManager         com.example.studentportal            I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 19:39:24.954  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:fbc389aa: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 19:39:24.970  8015-8015  InsetsController        com.example.studentportal            D  show(ime())
+2026-10-20 19:39:24.970  8015-8015  InsetsController        com.example.studentportal            D  Setting requestedVisibleTypes to 511 (was 503)
+2026-10-20 19:39:25.107  8015-8015  AssistStructure         com.example.studentportal            I  Flattened final assist data: 2116 bytes, containing 1 windows, 8 views
+2026-10-20 19:39:27.295  8015-8107  ProfileInstaller        com.example.studentportal            D  Installing profile for com.example.studentportal
+2026-10-20 19:39:29.080  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@d1862d0
+2026-10-20 19:39:29.246  8015-8015  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 417951523; UID 10237; state: ENABLED
+2026-10-20 19:39:30.478  8015-8015  InteractionJankMonitor  com.example.studentportal            W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.studentportal
+2026-10-20 19:39:30.645  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:fbc389aa: onShown
+2026-10-20 19:39:37.172  8015-8015  AutofillManager         com.example.studentportal            I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 19:39:37.174  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:73bb8093: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 19:39:37.174  8015-8015  InsetsController        com.example.studentportal            D  show(ime())
+2026-10-20 19:39:37.174  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:73bb8093: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+2026-10-20 19:39:37.298  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.widget.PopupWindow$PopupDecorView$$ExternalSyntheticLambda1@e4d4e48
+2026-10-20 19:39:37.312  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-1 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:37.313  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[PopupWindow:3fa085c]#1(BLAST Consumer)1 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:41.233  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:39:49.761  8015-8015  MainActivity            com.example.studentportal            I  Нажата кнопка «Открыть список», имя: Aslan
+2026-10-20 19:39:49.884  8015-8015  MainActivity            com.example.studentportal            D  onPause
+2026-10-20 19:39:49.971  8015-8015  ListActivity            com.example.studentportal            D  onCreate: получено имя Aslan
+2026-10-20 19:39:49.976  8015-8015  ListActivity            com.example.studentportal            D  onStart
+2026-10-20 19:39:49.978  8015-8015  ListActivity            com.example.studentportal            D  onResume
+2026-10-20 19:39:50.040  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@21cc7b4
+2026-10-20 19:39:50.040  8015-8015  VRI[ListActivity]       com.example.studentportal            D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:39:50.129  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-2 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:50.129  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[ListActivity]#2(BLAST Consumer)2 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:50.332  8015-8015  ImeTracker              com.example.studentportal            I  system_server:95c63538: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 19:39:50.393  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@1eb5e6
+2026-10-20 19:39:50.394  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@55b85e4
+2026-10-20 19:39:50.401  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:39:50.401  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:d445e2eb: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:39:50.427  8015-8015  RemoteInpu...ectionImpl com.example.studentportal            W  requestCursorUpdates on inactive InputConnection
+2026-10-20 19:39:50.446  8015-8015  ImeTracker              com.example.studentportal            I  system_server:e771a44a: onCancelled at PHASE_CLIENT_ON_CONTROLS_CHANGED
+2026-10-20 19:39:50.447  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@21cc7b4
+2026-10-20 19:39:50.489  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@55b85e4
+2026-10-20 19:39:50.511  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@21cc7b4
+2026-10-20 19:39:50.780  8015-8015  VRI[MainActivity]       com.example.studentportal            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:39:50.803  8015-8015  AutofillManager         com.example.studentportal            I  onInvisibleForAutofill(): expiringResponse
+2026-10-20 19:39:50.804  8015-8015  MainActivity            com.example.studentportal            D  onStop
+2026-10-20 19:39:55.061  8015-8015  ListActivity            com.example.studentportal            I  Выбран студент: Асанов Айдос, оценка 92
+2026-10-20 19:39:55.095  8015-8015  ListActivity            com.example.studentportal            D  onPause
+2026-10-20 19:39:55.136  8015-8015  DetailActivity          com.example.studentportal            D  onCreate: получены данные: Асанов Айдос, Разработка мобильных приложений, оценка 92
+2026-10-20 19:39:55.140  8015-8015  DetailActivity          com.example.studentportal            D  onStart
+2026-10-20 19:39:55.141  8015-8015  DetailActivity          com.example.studentportal            D  onResume
+2026-10-20 19:39:55.172  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@e40a7c2
+2026-10-20 19:39:55.173  8015-8015  VRI[DetailActivity]     com.example.studentportal            D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:39:55.184  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-3 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:55.185  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[DetailActivity]#3(BLAST Consumer)3 with slotExpansion=1 for 64 slots
+2026-10-20 19:39:55.495  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:39:55.495  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:5951df79: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:39:55.889  8015-8015  VRI[ListActivity]       com.example.studentportal            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:39:55.899  8015-8015  ListActivity            com.example.studentportal            D  onStop
+2026-10-20 19:40:00.190  8015-8015  DetailActivity          com.example.studentportal            I  Нажата кнопка «Назад»
+2026-10-20 19:40:00.209  8015-8015  DetailActivity          com.example.studentportal            D  onPause
+2026-10-20 19:40:00.225  8015-8015  ListActivity            com.example.studentportal            D  onStart
+2026-10-20 19:40:00.226  8015-8015  ListActivity            com.example.studentportal            D  onResume
+2026-10-20 19:40:00.230  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-4 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:00.231  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[ListActivity]#4(BLAST Consumer)4 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:00.496  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:40:00.497  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:55ac6649: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:40:00.930  8015-8015  VRI[DetailActivity]     com.example.studentportal            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:40:00.959  8015-8068  HWUI                    com.example.studentportal            D  endAllActiveAnimators on 0x7e5acae475e0 (RippleDrawable) with handle 0x7e596ae52660
+2026-10-20 19:40:00.962  8015-8015  DetailActivity          com.example.studentportal            D  onStop
+2026-10-20 19:40:00.965  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:40:00.973  8015-8015  DetailActivity          com.example.studentportal            D  onDestroy
+2026-10-20 19:40:00.975  8015-8015  ViewRootImpl            com.example.studentportal            D  Skipping stats log for color mode
+2026-10-20 19:40:01.505  8015-8015  ListActivity            com.example.studentportal            I  Выбран студент: Нурлан Серик, оценка 85
+2026-10-20 19:40:01.527  8015-8015  ListActivity            com.example.studentportal            D  onPause
+2026-10-20 19:40:01.561  8015-8015  DetailActivity          com.example.studentportal            D  onCreate: получены данные: Нурлан Серик, Разработка мобильных приложений, оценка 85
+2026-10-20 19:40:01.564  8015-8015  DetailActivity          com.example.studentportal            D  onStart
+2026-10-20 19:40:01.566  8015-8015  DetailActivity          com.example.studentportal            D  onResume
+2026-10-20 19:40:01.614  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@ef7c2d7
+2026-10-20 19:40:01.614  8015-8015  VRI[DetailActivity]     com.example.studentportal            D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:40:01.630  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-5 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:01.631  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[DetailActivity]#5(BLAST Consumer)5 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:01.869  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:40:01.869  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:66e93b3d: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:40:02.250  8015-8015  VRI[ListActivity]       com.example.studentportal            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:40:02.316  8015-8068  HWUI                    com.example.studentportal            D  endAllActiveAnimators on 0x7e5acae35aa0 (ListView) with handle 0x7e596ae539b0
+2026-10-20 19:40:02.320  8015-8015  ListActivity            com.example.studentportal            D  onStop
+2026-10-20 19:40:03.485  8015-8015  DetailActivity          com.example.studentportal            I  Нажата кнопка «Назад»
+2026-10-20 19:40:03.496  8015-8015  DetailActivity          com.example.studentportal            D  onPause
+2026-10-20 19:40:03.516  8015-8015  ViewRootImpl            com.example.studentportal            D  Skipping stats log for color mode
+2026-10-20 19:40:03.516  8015-8015  ListActivity            com.example.studentportal            D  onStart
+2026-10-20 19:40:03.517  8015-8015  ListActivity            com.example.studentportal            D  onResume
+2026-10-20 19:40:03.527  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-6 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:03.528  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[ListActivity]#6(BLAST Consumer)6 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:03.747  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:40:03.747  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:4056a17c: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:40:04.194  8015-8015  VRI[DetailActivity]     com.example.studentportal            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:40:04.237  8015-8068  HWUI                    com.example.studentportal            D  endAllActiveAnimators on 0x7e5acae48fa0 (RippleDrawable) with handle 0x7e596ae561a0
+2026-10-20 19:40:04.242  8015-8015  DetailActivity          com.example.studentportal            D  onStop
+2026-10-20 19:40:04.242  8015-8015  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): null
+2026-10-20 19:40:04.243  8015-8015  DetailActivity          com.example.studentportal            D  onDestroy
+2026-10-20 19:40:04.244  8015-8015  ViewRootImpl            com.example.studentportal            D  Skipping stats log for color mode
+2026-10-20 19:40:13.301  8015-8015  ListActivity            com.example.studentportal            D  onPause
+2026-10-20 19:40:13.304  8015-8015  VRI[ListActivity]       com.example.studentportal            D  visibilityChanged oldVisibility=true newVisibility=false
+2026-10-20 19:40:13.360  8015-8015  ListActivity            com.example.studentportal            D  onStop
+2026-10-20 19:40:13.388  8015-8037  e.studentportal         com.example.studentportal            W  Cleared Reference was only reachable from finalizer (only reported once)
+2026-10-20 19:40:16.793  8015-8015  ViewRootImpl            com.example.studentportal            D  Skipping stats log for color mode
+2026-10-20 19:40:16.794  8015-8015  ListActivity            com.example.studentportal            D  onStart
+2026-10-20 19:40:16.795  8015-8015  ListActivity            com.example.studentportal            D  onResume
+2026-10-20 19:40:16.813  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8015-7 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:16.813  8015-8015  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[ListActivity]#7(BLAST Consumer)7 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:17.086  8015-8015  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:40:17.087  8015-8015  ImeTracker              com.example.studentportal            I  com.example.studentportal:b5849b28: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:40:24.836   742-1928  WindowOrga...Controller system_server                        E  Attempting to externally change a non-organized container: Task{6db0580 #26 type=standard A=10237:com.example.studentportal}={handlePackageUpdate:false,} playercount=2 taskorg=android.window.ITaskOrganizer$Stub$Proxy@d68fa8a
+2026-10-20 19:40:37.836  8186-8186  libprocessgroup         com.example.studentportal            I  Created cgroup /sys/fs/cgroup/apps/uid_10237/pid_8186
+2026-10-20 19:40:37.906  8186-8186  Zygote                  com.example.studentportal            I  Process 8186 created for com.example.studentportal
+2026-10-20 19:40:37.907  8186-8186  e.studentportal         com.example.studentportal            I  Late-enabling -Xcheck:jni
+2026-10-20 19:40:38.037  8186-8186  e.studentportal         com.example.studentportal            I  Using generational CollectorTypeCMC GC.
+2026-10-20 19:40:38.044  8186-8186  e.studentportal         com.example.studentportal            W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, alderlake, pantherlake, default
+2026-10-20 19:40:38.128  8186-8186  nativeloader            com.example.studentportal            D  Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+2026-10-20 19:40:38.254  8186-8186  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 333566037; UID 10237; state: ENABLED
+2026-10-20 19:40:38.505  8186-8186  nativeloader            com.example.studentportal            D  Configuring clns-9 for other apk /data/app/~~nc-dGXOVgiCD8fWrXYUiWQ==/com.example.studentportal-IfXWEeD0bW-bu4noTPSczA==/base.apk. target_sdk_version=37, uses_libraries=, library_path=/data/app/~~nc-dGXOVgiCD8fWrXYUiWQ==/com.example.studentportal-IfXWEeD0bW-bu4noTPSczA==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.studentportal
+2026-10-20 19:40:38.546  8186-8186  GraphicsEnvironment     com.example.studentportal            V  Currently set values for:
+2026-10-20 19:40:38.547  8186-8186  GraphicsEnvironment     com.example.studentportal            V    angle_gl_driver_selection_pkgs=[]
+2026-10-20 19:40:38.547  8186-8186  GraphicsEnvironment     com.example.studentportal            V    angle_gl_driver_selection_values=[]
+2026-10-20 19:40:38.547  8186-8186  GraphicsEnvironment     com.example.studentportal            V  com.example.studentportal is not listed in per-application setting
+2026-10-20 19:40:38.548  8186-8186  GraphicsEnvironment     com.example.studentportal            V  No special selections for ANGLE, returning default driver choice
+2026-10-20 19:40:38.554  8186-8186  GraphicsEnvironment     com.example.studentportal            V  Neither updatable production driver nor prerelease driver is supported.
+2026-10-20 19:40:38.566  8186-8186  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 407952621; UID 10237; state: ENABLED
+2026-10-20 19:40:38.567  8186-8186  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 419020719; UID 10237; state: ENABLED
+2026-10-20 19:40:38.692  8186-8186  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 458413887; UID 10237; state: ENABLED
+2026-10-20 19:40:38.705  8186-8200  DisplayManager          com.example.studentportal            I  Choreographer implicitly registered for the refresh rate.
+2026-10-20 19:40:38.813  8186-8186  DesktopExperienceFlags  com.example.studentportal            D  Toggle override initialized to: false
+2026-10-20 19:40:38.844  8186-8186  AppCompatDelegate       com.example.studentportal            D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2026-10-20 19:40:38.850  8186-8200  GFXSTREAM               com.example.studentportal            I  [eglDisplay.cpp(297)] Opening libGLESv1_CM_emulation.so
+2026-10-20 19:40:38.852  8186-8200  GFXSTREAM               com.example.studentportal            I  [eglDisplay.cpp(297)] Opening libGLESv2_emulation.so
+2026-10-20 19:40:38.891  8186-8200  libc                    com.example.studentportal            W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:40:38.904  8186-8200  HWUI                    com.example.studentportal            W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2026-10-20 19:40:38.904  8186-8200  HWUI                    com.example.studentportal            W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2026-10-20 19:40:39.148  8186-8186  e.studentportal         com.example.studentportal            I  hiddenapi: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (runtime_flags=0, domain=platform, api=unsupported) from Landroidx/appcompat/widget/ViewUtils; (domain=app, TargetSdkVersion=37) using reflection: allowed
+2026-10-20 19:40:39.296  8186-8186  MainActivity            com.example.studentportal            D  onCreate: экран создан
+2026-10-20 19:40:39.304  8186-8186  MainActivity            com.example.studentportal            D  onStart
+2026-10-20 19:40:39.305  8186-8186  MainActivity            com.example.studentportal            D  onResume
+2026-10-20 19:40:39.311  8186-8186  CompatChangeReporter    com.example.studentportal            D  Compat change id reported: 418924588; UID 10237; state: ENABLED
+2026-10-20 19:40:39.323  8186-8186  HWUI                    com.example.studentportal            W  Unknown dataspace 0
+2026-10-20 19:40:39.347  8186-8186  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.app.Activity$$ExternalSyntheticLambda0@1eb5e6
+2026-10-20 19:40:39.353  8186-8186  VRI[MainActivity]       com.example.studentportal            D  WindowInsets changed: 1080x2400 statusBars:[0,63,0,0] navigationBars:[0,0,0,63] mandatorySystemGestures:[0,63,0,84] 
+2026-10-20 19:40:39.366  8186-8205  libc                    com.example.studentportal            W  Access denied finding property "vendor.mesa.virtgpu.kumquat"
+2026-10-20 19:40:39.378  8186-8186  HWUI                    com.example.studentportal            I  Using FreeType backend (prop=Auto)
+2026-10-20 19:40:39.408  8186-8186  Surface                 com.example.studentportal            I  Creating surface for consumer unnamed-8186-0 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:39.411  8186-8186  Surface                 com.example.studentportal            I  Creating surface for consumer VRI[MainActivity]#0(BLAST Consumer)0 with slotExpansion=1 for 64 slots
+2026-10-20 19:40:39.690  8186-8186  InsetsController        com.example.studentportal            D  hide(ime())
+2026-10-20 19:40:39.690  8186-8186  ImeTracker              com.example.studentportal            I  com.example.studentportal:65d1e921: onCancelled at PHASE_CLIENT_ALREADY_HIDDEN
+2026-10-20 19:40:40.608  8186-8191  e.studentportal         com.example.studentportal            I  Compiler allocated 5239KB to compile void android.view.ViewRootImpl.performTraversals(long)
+2026-10-20 19:40:41.335  8186-8186  MainActivity            com.example.studentportal            I  Нажата кнопка «Очистить»
+2026-10-20 19:40:44.217  8186-8220  ProfileInstaller        com.example.studentportal            D  Installing profile for com.example.studentportal
+2026-10-20 19:40:45.299  8186-8186  AutofillManager         com.example.studentportal            I  showAutofillDialog() return false due to improve fill dialog
+2026-10-20 19:40:45.300  8186-8186  ImeTracker              com.example.studentportal            I  com.example.studentportal:1803eb27: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true userId 0 displayId 0
+2026-10-20 19:40:45.303  8186-8186  InsetsController        com.example.studentportal            D  show(ime())
+2026-10-20 19:40:45.304  8186-8186  InsetsController        com.example.studentportal            D  Setting requestedVisibleTypes to 511 (was 503)
+2026-10-20 19:40:45.325  8186-8186  AssistStructure         com.example.studentportal            I  Flattened final assist data: 2116 bytes, containing 1 windows, 8 views
+2026-10-20 19:40:45.447  8186-8186  WindowOnBackDispatcher  com.example.studentportal            D  setTopOnBackInvokedCallback (unwrapped): android.view.ImeBackAnimationController@8e5bbe8
+2026-10-20 19:40:45.759  8186-8186  InteractionJankMonitor  com.example.studentportal            W  Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=com.example.studentportal
+2026-10-20 19:40:45.957  8186-8186  ImeTracker              com.example.studentportal            I  com.example.studentportal:1803eb27: onShown
+2026-10-20 20:00:14.853  8186-8192  e.studentportal         com.example.studentportal            I  Background young concurrent mark compact GC freed 3116KB AllocSpace bytes, 0(0B) LOS objects, 47% free, 3370KB/6444KB, paused 1.581ms,6.657ms total 461.053ms
+2026-10-20 20:00:14.853  8186-8192  e.studentportal         com.example.studentportal            W  Reducing the number of considered missed Gc histogram windows from 115 to 100
+2026-10-20 20:19:00.807  8186-8192  e.studentportal         com.example.studentportal            W  Reducing the number of considered missed Gc histogram windows from 112 to 100
